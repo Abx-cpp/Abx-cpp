@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate Software Engineering student at FAST NUCES Lahore <br>with hands-on experience in front-end development and desktop <br>applications. I am skilled in HTML, CSS, JavaScript, React, C++, and <br>.NET Framework with SQL. My commitment to building impactful  <br>user-focused software solutions is demonstrated through my projects.<br>I aim to create clean, efficient, and robust software.
+I am a passionate Software Engineering student at FAST NUCES Lahore with hands-on experience in front-end development and desktop applications. I am skilled in HTML, CSS, JavaScript, React, C++, and .NET Framework with SQL. My commitment to building impactful user-focused software solutions is demonstrated through my projects.I aim to create clean, efficient, and robust software.
 
 
 ## 🌐 Socials:
